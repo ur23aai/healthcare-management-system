@@ -1,0 +1,27 @@
+================== REFERRAL EMAIL ==================
+Date: 04/01/2026
+
+To: Dr. Richard Evans
+From: Dr. David Thompson
+Facility: Heartlands Hospital
+
+Subject: Patient Referral - Unknown
+----------------------------------------------------
+
+Referral ID: R011
+Patient ID: TestPatient
+Patient Name: Unknown
+
+Urgency Level: Urgent
+Referral Reason: Test
+
+Clinical Summary:
+Test		tES
+
+Requested Investigations:
+DFD
+
+Notes: 
+====================================================
+
+
