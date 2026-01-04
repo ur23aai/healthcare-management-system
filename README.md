@@ -267,9 +267,3 @@ The hardest part was making sure the Singleton pattern worked correctly with the
 ✅ README documentation
 
 ---
-
-**Note:** This project was developed individually without using GenAI tools for content creation, as per university guidelines.
-
----
-
-*End of README*
